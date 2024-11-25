@@ -1,10 +1,6 @@
 ---
 title: 'chromebook'
-author: Don Gato
-layout: post
 
-categories:
-  - Tech
 ---
 
   After years as a dedicated mac person, going back to os9. I have moved over to a Chromebook / Pixel setup for daily driving
