@@ -1,6 +1,7 @@
 ---
 title: 'chromebook'
-
+feed: show
+date : 11-11-2024
 ---
 
   After years as a dedicated mac person, going back to os9. I have moved over to a Chromebook / Pixel setup for daily driving

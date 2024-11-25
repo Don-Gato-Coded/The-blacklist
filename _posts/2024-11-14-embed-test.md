@@ -1,10 +1,8 @@
 ---
 title: 'embeded'
 author: Don Gato
-layout: post
-
-categories:
-  - Tech
+feed: show
+date : 11-14-2024
 ---
 
 
