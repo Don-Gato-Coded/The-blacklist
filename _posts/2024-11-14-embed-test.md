@@ -2,7 +2,7 @@
 title: 'embeded'
 author: Don Gato
 feed: show
-date : 11-14-2024
+date: 11-14-2024
 ---
 
 
